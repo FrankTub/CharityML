@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+.git/
+example_submission.csv
+finding_donors_orig.ipynb
+finding_donors_v1.html
+mypythonscript
+Project 1.zip
+results.png
+test_census.csv
